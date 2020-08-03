@@ -4,7 +4,7 @@ Basically the programs in this repo are used to solve Sudoku problems. I don't t
 
 The backtrack.py is my implementation of the "backtracking" apprach to solving Sudoku problems which is the first (and only?) thing mentioned on the Wikipedia page for solving Sudoku problems.
 What it does is it takes a .txt file where hyphens (-) represent unkown numbers and then it prints out the solution.
-On my computer (which I would say is mid-upper tier?) the sultion time was allways under 1.5 seconds even for the hardest problems
+On my computer (which I would say is mid-upper tier?) the solution time was allways under 1.5 seconds even for the hardest problems
 
 
 The backtrack_vis.py is basically the same implemetation as the backtrack.py file. The only difference is that the user is able to visualize how the backtracking works.
